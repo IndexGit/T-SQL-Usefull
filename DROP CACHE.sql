@@ -1,0 +1,2 @@
+DBCC freeproccache 
+DBCC dropcleanbuffers 
